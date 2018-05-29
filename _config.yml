@@ -4,14 +4,14 @@ SEOTitle: rickymorrison的博客 | 船坞
 header-img: img/glassanimalsONLINE.jpg
 email: 915040030@qq.com
 description: "HELLO，FXXK WORLD."
-keyword: "PM, 庳城"
+keyword: "庳城"
 url: "http://rickymorrison.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "SHUT UP！B-E-A—CH！"
+sidebar-about-description: "HELLO，FXXK WORLD."
 sidebar-avatar: /img/WechatIMG97.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
